@@ -1,0 +1,7 @@
+Jacket,NorthFace,300,116
+Sweater,NavyBlue,250,85
+Joggers,YoyoMens,400,112
+T-shirts,Rafulu,200,120
+C-Pants,MenBlack,800,101
+L-Shorts,Retaku,140,120
+C-Shirts,WearyOu,260,195
